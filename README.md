@@ -4,6 +4,8 @@
 
 [WP Test](http://wptest.io/) fantastically exhaustive set of test data to measure the integrity of your plugins and themes.
 
+The word "comprehensive" was purposely left off this page. It's not. There will always be something new squarely scenario to test. That's where you come in. [Let us know](http://wptest.io/contact/) of a test we're not covering. We'd love to squash it.
+
 The foundation of the tests are derived from WordPress’ Theme Unit Test Codex data. It’s paired with lesons learned from over three years of theme and plugin support, and baffling corner cases, to create a potent cocktail of simulated, quirky user content.
 
 Let’s make WordPress testing easier and resilient together.
