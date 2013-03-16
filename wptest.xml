@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.5.1" created="2013-03-16 06:17" -->
+<!-- generator="WordPress/3.5.1" created="2013-03-16 10:29" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WP Test Demo</title>
 	<link>http://wptest.io/demo</link>
 	<description>The Best Tests For WordPress</description>
-	<pubDate>Sat, 16 Mar 2013 06:17:54 +0000</pubDate>
+	<pubDate>Sat, 16 Mar 2013 10:29:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wptest.io/demo</wp:base_site_url>
@@ -7256,29 +7256,29 @@ Multi line blockquote with a cite reference:
 <th></th>
 </tr>
 <tr class="odd">
-<td><a href="http://john.do/" rel="nofollow">John Saddington</a></td>
+<td><a href="http://john.do/">John Saddington</a></td>
 <td>$1</td>
 <td>Because that's all Steve Job' needed for a salary.</td>
 </tr>
 <tr class="even">
-<td><a href="http://tommcfarlin.com/" rel="nofollow">Tom McFarlin</a></td>
+<td><a href="http://tommcfarlin.com/">Tom McFarlin</a></td>
 <td>$100K</td>
 <td>For all the blogging he does.</td>
 </tr>
 <tr class="odd">
-<td><a href="http://jarederickson.com/" rel="nofollow">Jared Erickson</a></td>
+<td><a href="http://jarederickson.com/">Jared Erickson</a></td>
 <td>$100M</td>
 <td>Pictures are worth a thousand words, right? So Tom x 1,000.</td>
 </tr>
 <tr class="even">
-<td><a href="http://chrisam.es/" rel="nofollow">Chris Ames</a></td>
+<td><a href="http://chrisam.es/">Chris Ames</a></td>
 <td>$100B</td>
 <td>With hair like that?! Enough said...</td>
 </tr>
 </tbody>
 </table>
 <h2>Definition Lists</h2>
-<dl><dt>Definition List Title</dt><dd>Definition list division.</dd><dt>Startup</dt><dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd><dt>#dowork</dt><dd>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.</dd><dt>Do It Live</dt><dd>I'll let Bill O'Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c" rel="nofollow">explain</a> this one.</dd></dl>
+<dl><dt>Definition List Title</dt><dd>Definition list division.</dd><dt>Startup</dt><dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd><dt>#dowork</dt><dd>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.</dd><dt>Do It Live</dt><dd>I'll let Bill O'Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c">explain</a> this one.</dd></dl>
 <h2>Unordered Lists (Nested)</h2>
 <ul>
 	<li>List item one
@@ -7322,7 +7322,7 @@ Multi line blockquote with a cite reference:
 	<li>List item four</li>
 </ol>
 <h2>HTML Tags</h2>
-These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/" rel="nofollow">FAQ</a>.
+These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/">FAQ</a>.
 
 <strong>Address Tag</strong>
 
@@ -7330,7 +7330,7 @@ These supported tags come from the WordPress.com code <a title="Code" href="http
 Cupertino, CA 95014
 United States</address><strong>Anchor Tag (aka. Link)</strong>
 
-This is an example of a <a title="Apple" href="http://apple.com" rel="nofollow">link</a>.
+This is an example of a <a title="Apple" href="http://apple.com">link</a>.
 
 <strong>Abbreviation Tag</strong>
 
@@ -7421,6 +7421,10 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>About</title>
@@ -7429,7 +7433,11 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		<dc:creator>manovotny</dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1086</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<a title="WP Test - The Best Tests For WordPress" href="http://wptest.io" target="_blank">WP Test</a> is a fantastically exhaustive set of test data to measure the integrity of your plugins and themes.
+
+The foundation of the tests are derived from <a title="Theme Unit Test" href="http://codex.wordpress.org/Theme_Unit_Test" target="_blank">WordPress’ Theme Unit Test Codex</a> data. It’s paired with lesons learned from over three years of theme and plugin support, and baffling corner cases, to create a potent cocktail of simulated, quirky user content.
+
+Let’s make WordPress testing easier and bulletproof together.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1086</wp:post_id>
 		<wp:post_date>2013-03-15 18:21:12</wp:post_date>
@@ -7450,6 +7458,10 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -10417,29 +10429,29 @@ Multi line blockquote with a cite reference:
 <th></th>
 </tr>
 <tr class="odd">
-<td><a href="http://john.do/" rel="nofollow">John Saddington</a></td>
+<td><a href="http://john.do/">John Saddington</a></td>
 <td>$1</td>
 <td>Because that's all Steve Job' needed for a salary.</td>
 </tr>
 <tr class="even">
-<td><a href="http://tommcfarlin.com/" rel="nofollow">Tom McFarlin</a></td>
+<td><a href="http://tommcfarlin.com/">Tom McFarlin</a></td>
 <td>$100K</td>
 <td>For all the blogging he does.</td>
 </tr>
 <tr class="odd">
-<td><a href="http://jarederickson.com/" rel="nofollow">Jared Erickson</a></td>
+<td><a href="http://jarederickson.com/">Jared Erickson</a></td>
 <td>$100M</td>
 <td>Pictures are worth a thousand words, right? So Tom x 1,000.</td>
 </tr>
 <tr class="even">
-<td><a href="http://chrisam.es/" rel="nofollow">Chris Ames</a></td>
+<td><a href="http://chrisam.es/">Chris Ames</a></td>
 <td>$100B</td>
 <td>With hair like that?! Enough said...</td>
 </tr>
 </tbody>
 </table>
 <h2>Definition Lists</h2>
-<dl><dt>Definition List Title</dt><dd>Definition list division.</dd><dt>Startup</dt><dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd><dt>#dowork</dt><dd>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.</dd><dt>Do It Live</dt><dd>I'll let Bill O'Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c" rel="nofollow">explain</a> this one.</dd></dl>
+<dl><dt>Definition List Title</dt><dd>Definition list division.</dd><dt>Startup</dt><dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd><dt>#dowork</dt><dd>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.</dd><dt>Do It Live</dt><dd>I'll let Bill O'Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c">explain</a> this one.</dd></dl>
 <h2>Unordered Lists (Nested)</h2>
 <ul>
 	<li>List item one
@@ -10483,7 +10495,7 @@ Multi line blockquote with a cite reference:
 	<li>List item four</li>
 </ol>
 <h2>HTML Tags</h2>
-These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/" rel="nofollow">FAQ</a>.
+These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/">FAQ</a>.
 
 <strong>Address Tag</strong>
 
@@ -10491,7 +10503,7 @@ These supported tags come from the WordPress.com code <a title="Code" href="http
 Cupertino, CA 95014
 United States</address><strong>Anchor Tag (aka. Link)</strong>
 
-This is an example of a <a title="Apple" href="http://apple.com" rel="nofollow">link</a>.
+This is an example of a <a title="Apple" href="http://apple.com">link</a>.
 
 <strong>Abbreviation Tag</strong>
 
@@ -10580,6 +10592,18 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>standard_seo_post_level_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>standard_link_url_field</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>standard_seo_post_meta_description</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
