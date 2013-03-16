@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.5.1" created="2013-03-16 10:51" -->
+<!-- generator="WordPress/3.5.1" created="2013-03-16 15:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WP Test Demo</title>
 	<link>http://wptest.io/demo</link>
 	<description>The Best Tests For WordPress</description>
-	<pubDate>Sat, 16 Mar 2013 10:51:44 +0000</pubDate>
+	<pubDate>Sat, 16 Mar 2013 15:23:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wptest.io/demo</wp:base_site_url>
@@ -7435,7 +7435,9 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[<a title="WP Test - The Best Tests For WordPress" href="http://wptest.io" target="_blank">WP Test</a> is a fantastically exhaustive set of test data to measure the integrity of your plugins and themes.
 
-The foundation of the tests are derived from <a title="Theme Unit Test" href="http://codex.wordpress.org/Theme_Unit_Test" target="_blank">WordPress’ Theme Unit Test Codex</a> data. It’s paired with lesons learned from over three years of theme and plugin support, and baffling corner cases, to create a potent cocktail of simulated, quirky user content.
+The foundation of these tests are derived from <a title="Theme Unit Test" href="http://codex.wordpress.org/Theme_Unit_Test" target="_blank">WordPress’ Theme Unit Test Codex</a> data. It’s paired with lessons learned from over three years of theme and plugin support, and baffling corner cases, to create a potent cocktail of simulated, quirky user content.
+
+The word "comprehensive" was purposely left off this description. It's not. There will always be something new squarely scenario to test. That's where you come in. <a title="Contact" href="http://wptest.io/contact/">Let us know</a> of a test we're not covering. We'd love to squash it.
 
 Let’s make WordPress testing easier and resilient together.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9652,6 +9654,10 @@ Learn more about <a title="WordPress Embeds" href="http://codex.wordpress.org/Em
 		<wp:postmeta>
 			<wp:meta_key>_wp_old_slug</wp:meta_key>
 			<wp:meta_value><![CDATA[post-format-test-video]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_7338f2ed6983f1e8f5ec2aef019d9c39</wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="610" height="343" src="http://www.youtube.com/embed/nwe-H6l4beM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
