@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.5.1" created="2013-03-16 10:29" -->
+<!-- generator="WordPress/3.5.1" created="2013-03-16 10:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WP Test Demo</title>
 	<link>http://wptest.io/demo</link>
 	<description>The Best Tests For WordPress</description>
-	<pubDate>Sat, 16 Mar 2013 10:29:50 +0000</pubDate>
+	<pubDate>Sat, 16 Mar 2013 10:51:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wptest.io/demo</wp:base_site_url>
@@ -7437,7 +7437,7 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 
 The foundation of the tests are derived from <a title="Theme Unit Test" href="http://codex.wordpress.org/Theme_Unit_Test" target="_blank">WordPress’ Theme Unit Test Codex</a> data. It’s paired with lesons learned from over three years of theme and plugin support, and baffling corner cases, to create a potent cocktail of simulated, quirky user content.
 
-Let’s make WordPress testing easier and bulletproof together.]]></content:encoded>
+Let’s make WordPress testing easier and resilient together.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1086</wp:post_id>
 		<wp:post_date>2013-03-15 18:21:12</wp:post_date>
