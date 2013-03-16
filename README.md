@@ -6,6 +6,8 @@
 
 The foundation of these tests are derived from WordPress’ Theme Unit Test Codex data. It’s paired with lessons learned from over three years of theme and plugin support, and baffling corner cases, to create a potent cocktail of simulated, quirky user content.
 
+The word "comprehensive" was purposely left off this description. It's not. There will always be something new squarely scenario to test. That's where you come in. [Let us know](http://wptest.io/contact/) of a test we're not covering. We'd love to squash it.
+
 Let’s make WordPress testing easier and resilient together.
 
 ## Installation
