@@ -1,0 +1,12 @@
+{
+	"name"       : "manovotny/wptest",
+	"description": "The Best Tests For WordPress",
+	"homepage"   : "http://wptest.io/",
+	"license"    : "GPL-3.0+",
+	"authors"    : [
+		{
+			"name"    : "Michael Novotny",
+			"homepage": "https://github.com/manovotny/"
+		}
+	]
+}
