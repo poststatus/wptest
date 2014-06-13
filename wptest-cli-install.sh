@@ -12,6 +12,6 @@ read WPPATH
 
 # Import WP TESTS
 cd $WPPATH
-curl -O https://raw.githubusercontent.com/manovotny/wptest/master/wptest.xml
+curl -OL https://raw.githubusercontent.com/manovotny/wptest/master/wptest.xml
 wp import wptest.xml --authors=create
 rm wptest.xml
