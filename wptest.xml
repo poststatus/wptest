@@ -1382,7 +1382,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[Horizontal Featured Image]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Vertical Featured Image]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
