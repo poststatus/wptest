@@ -1,12 +1,24 @@
 {
-	"name"       : "manovotny/wptest",
-	"description": "The Best Tests For WordPress",
-	"homepage"   : "http://wptest.io/",
-	"license"    : "GPL-3.0+",
-	"authors"    : [
-		{
-			"name"    : "Michael Novotny",
-			"homepage": "https://github.com/manovotny/"
-		}
-	]
+    "name": "manovotny/wptest",
+    "version": "1.4.2",
+    "description": "WP Test - The Best Tests For WordPress.",
+    "type": "library",
+    "homepage": "http://wptest.io",
+    "license": "GPL-3.0+",
+    "keywords": [
+        "data",
+        "export",
+        "import",
+        "tests",
+        "unit tests",
+        "wordpress"
+    ],
+    "authors": [
+        {
+            "name": "Michael Novotny",
+            "email": "manovotny@gmail.com",
+            "homepage": "http://manovotny.com",
+            "role": "Developer"
+        }
+    ]
 }
