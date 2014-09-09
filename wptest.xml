@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.5.1" created="2014-09-09 02:39" -->
+<!-- generator="WordPress/3.5.1" created="2014-09-09 02:58" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WP Test Demo</title>
 	<link>http://wptest.io/demo</link>
 	<description>The Best Tests For WordPress</description>
-	<pubDate>Tue, 09 Sep 2014 02:39:38 +0000</pubDate>
+	<pubDate>Tue, 09 Sep 2014 02:58:33 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wptest.io/demo</wp:base_site_url>
@@ -6951,7 +6951,7 @@
 		<dc:creator>manovotny</dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1064</guid>
 		<description></description>
-		<content:encoded><![CDATA[Note that you will probably want to test this page in conjunction with the <span style="text-decoration: underline;"><strong>Blog</strong></span> page.
+		<content:encoded><![CDATA[Note that you will probably want to test this page in conjunction with the <strong>Blog</strong> page.
 
 To test this page:
 <ul>
@@ -6996,19 +6996,19 @@ A few things to check once this is done.
 		<dc:creator>manovotny</dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1066</guid>
 		<description></description>
-		<content:encoded><![CDATA[Note that you will probably want to test this page in conjunction with the <span style="text-decoration: underline;"><strong>Home</strong></span> page.
+		<content:encoded><![CDATA[Note that you will probably want to test this page in conjunction with the <strong>Home</strong> page.
 
 To test this page:
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Navigate to </span><strong style="line-height: 1.714285714; font-size: 1rem;"><em>Settings &gt; Reading</em></strong><span style="line-height: 1.714285714; font-size: 1rem;"> in the WordPress admin.</span></li>
-	<li><span style="font-size: 1rem; line-height: 1.714285714;">Then use the settings in the screenshot below.</span></li>
+	<li>Navigate to <strong><em>Settings &gt; Reading</em></strong> in the WordPress admin.</li>
+	<li>Then use the settings in the screenshot below.</li>
 </ul>
 <img class="alignnone size-full wp-image-1071" alt="Static Pages" src="http://wptest.io/demo/wp-content/uploads/2013/03/static-pages.png" width="1390" height="1022" />
 
 A few things to check once this is done.
 <ul>
-	<li>Navigating to the Blog page does <span style="text-decoration: underline;"><strong>not</strong></span> display this page. It should display blog posts.</li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Check that the browser window / tab name is what you intend it to show.</span></li>
+	<li>Navigating to the Blog page does <strong>not</strong> display this page. It should display blog posts.</li>
+	<li>Check that the browser window / tab name is what you intend it to show.</li>
 	<li>If your theme displays breadcrumbs, they should probably not show when this is the posts page.</li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7118,7 +7118,7 @@ If your theme support comments on pages, then they should show up below.]]></con
 		<dc:creator>manovotny</dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1080</guid>
 		<description></description>
-		<content:encoded><![CDATA[<span style="line-height: 1.714285714; font-size: 1rem;">Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.</span>
+		<content:encoded><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
 On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.
 <p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
@@ -7948,11 +7948,11 @@ And, just for fun, it also contains a child page (aka. a grandchild page).]]></c
 		<description></description>
 		<content:encoded><![CDATA[This post tests comments in the following ways.
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Threaded comments up to 10 levels deep</span></li>
+	<li>Threaded comments up to 10 levels deep</li>
 	<li>Paginated comments (set <em><strong>Settings &gt; Discussion &gt; Break comments into pages</strong></em> to <em><strong>5</strong></em> top level comments per page)</li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Comment markup / formatting</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Comment images</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Comment videos</span></li>
+	<li>Comment markup / formatting</li>
+	<li>Comment images</li>
+	<li>Comment videos</li>
 	<li>Author comments</li>
 	<li>Gravatars and default fallbacks</li>
 </ul>
@@ -8512,9 +8512,9 @@ Also an author comment.]]></wp:comment_content>
 
 There are a few ways to list them.
 <ol>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Above the comments.</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Below the comments</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Included within the normal flow of comments.</span></li>
+	<li>Above the comments</li>
+	<li>Below the comments</li>
+	<li>Included within the normal flow of comments</li>
 </ol>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>151</wp:post_id>
@@ -9354,7 +9354,7 @@ You will need to install <a title="Jetpack for WordPress" href="http://jetpack.
 		<dc:creator>tommcfarlin</dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/test-with-secret-password/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<span style="line-height: 1.714285714; font-size: 1rem;">This content, comments, pingbacks, and trackbacks should not be visible until the password is entered.</span>]]></content:encoded>
+		<content:encoded><![CDATA[This content, comments, pingbacks, and trackbacks should not be visible until the password is entered.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date>2013-01-04 09:38:05</wp:post_date>
@@ -9521,8 +9521,8 @@ Post Page 3]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[Verify that:
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">The post title renders the word "with" in </span><em style="line-height: 1.714285714; font-size: 1rem;">italics</em><span style="line-height: 1.714285714; font-size: 1rem;"> and the word "markup" in </span><strong style="line-height: 1.714285714; font-size: 1rem;">bold</strong><span style="line-height: 1.714285714; font-size: 1rem;">.</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">The post title markup should be removed from the browser window / tab.</span></li>
+	<li>The post title renders the word "with" in <em>italics</em> and the word "markup" in <strong>bold</strong>.</li>
+	<li>The post title markup should be removed from the browser window / tab.</li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>861</wp:post_id>
@@ -9583,14 +9583,13 @@ Special characters in the post title have been known to cause issues with JavaSc
 
 A few things to check for:
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Non-breaking text in the title, content, and comments should have no adverse effects on layout or functionality.</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Check the browser window / tab title.</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">If you are a plugin or widget developer, check that this text does not break anything.</span></li>
+	<li>Non-breaking text in the title, content, and comments should have no adverse effects on layout or functionality.</li>
+	<li>Check the browser window / tab title.</li>
+	<li>If you are a plugin or widget developer, check that this text does not break anything.</li>
 </ul>
 The following CSS properties will help you support non-breaking text.
 <pre>-ms-word-wrap: break-word;
-word-wrap: break-word;</pre>
-&nbsp;]]></content:encoded>
+word-wrap: break-word;</pre>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>877</wp:post_id>
 		<wp:post_date>2013-01-05 12:00:59</wp:post_date>
@@ -9679,7 +9678,7 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
 		<dc:creator>alliswell</dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=903</guid>
 		<description></description>
-		<content:encoded><![CDATA[<span style="line-height: 1.714285714; font-size: 1rem;">Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.</span>
+		<content:encoded><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
 On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.
 <p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
@@ -10037,8 +10036,8 @@ And this content is after the more tag.]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Lists within lists do not break the ordered list numbering order</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Your list styles go deep enough.</span></li>
+	<li>Lists within lists do not break the ordered list numbering order</li>
+	<li>Your list styles go deep enough</li>
 </ul>
 <h3>Ordered - Unordered - Ordered</h3>
 <ol>
