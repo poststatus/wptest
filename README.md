@@ -1,4 +1,4 @@
-[![WP Test](screenshot.png)](http://wptest.io)
+[![WP Test](screenshots/logo.png)](http://wptest.io)
 
 ## Description
 
