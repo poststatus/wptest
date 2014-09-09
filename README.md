@@ -63,6 +63,9 @@ The word "comprehensive" was purposely left off the project description. It's no
 
 Let us know of a test we're not covering by [contacting us](http://wptest.io/contact/) or by adding an [issue](https://github.com/manovotny/wptest/issues). We'd love to incorporate it into the suite and help other developers squash the issue.
 
+
+For more information on how to directly contribute to the project, please read the [`CONTRIBUTING.md`](CONTRIBUTING.md) file.
+
 Let’s make WordPress testing easier and resilient together!
 
 ## Release Notes
