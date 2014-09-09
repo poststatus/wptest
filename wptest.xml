@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.5.1" created="2014-09-09 02:15" -->
+<!-- generator="WordPress/3.5.1" created="2014-09-09 02:39" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WP Test Demo</title>
 	<link>http://wptest.io/demo</link>
 	<description>The Best Tests For WordPress</description>
-	<pubDate>Tue, 09 Sep 2014 02:15:30 +0000</pubDate>
+	<pubDate>Tue, 09 Sep 2014 02:39:38 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wptest.io/demo</wp:base_site_url>
@@ -7626,7 +7626,7 @@ And, just for fun, it also contains a child page (aka. a grandchild page).]]></c
 		<wp:post_name>description</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>44</wp:menu_order>
+		<wp:menu_order>43</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7637,7 +7637,7 @@ And, just for fun, it also contains a child page (aka. a grandchild page).]]></c
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1207]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -7791,7 +7791,7 @@ And, just for fun, it also contains a child page (aka. a grandchild page).]]></c
 		<wp:post_name>new-window-tab</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>43</wp:menu_order>
+		<wp:menu_order>44</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
