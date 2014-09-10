@@ -78,7 +78,7 @@ WP Test is licensed under the [GPL](http://www.gnu.org/licenses/gpl-3.0.html).
 
 A copy of the [`LICENSE`](LICENSE) is included in the root of the project.
 
-# Credits
+## Credits
 
 WP Test was created in March of 2013 by [Michael Novotny](http://manovotny.com) and has since included a number of great contributions.
 
