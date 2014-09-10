@@ -12,19 +12,19 @@
 
 ## 1.4.2
 
-* Adds `-L` to curl request so that redirects are followed in the WP-CLI script
+* #34: Adds `-L` to curl request so that redirects are followed in the WP-CLI script
 
 ## 1.4.1
 
 * #31: Fix path to raw XML file for WP-CLI script
 
-## 1.4.0 (January 20th, 2014)
+## 1.4.0
 
 * #18: Adds WP-CLI quick install script
 
 ## 1.3.0
 
-* Adds composer file.
+* #20: Adds composer file.
 
 ## 1.2.0
 
@@ -32,7 +32,7 @@
 
 ## 1.1.1
 
-* Fixes "developer" typo on Steve Ballmer quote
+* #4: Fixes "developer" typo on Steve Ballmer quote
 
 ## 1.1.0
 
