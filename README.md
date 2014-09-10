@@ -82,4 +82,4 @@ A copy of the [`LICENSE`](LICENSE) is included in the root of the project.
 
 WP Test was created in March of 2013 by [Michael Novotny](http://manovotny.com) and has since included a number of great contributions.
 
-The foundation of these tests are derived from [WordPress’ Theme Unit Test Codex data](http://codex.wordpress.org/Theme_Unit_Test#Test_Environment_Setup). And in the beauty of open source, many WP Test tests have been intergrated back into the "official" WordPress Unit Test data, but not everything...and not what we consider to be the most userful test / corner cases.
+The foundation of these tests are derived from [WordPress’ Theme Unit Test Codex data](http://codex.wordpress.org/Theme_Unit_Test#Test_Environment_Setup). And in the beauty of open source, many WP Test tests have been integrated back into the "official" WordPress Unit Test data, but not everything...and not what we consider to be the most useful test / corner cases.
