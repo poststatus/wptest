@@ -48,14 +48,20 @@ WP Test can be installed one of two ways, either via the [WordPress Admin](#inst
 - Choose the `wptest.xml` file you extracted from the zip in Step 2 and click `Upload file and import`.
 - On the next screen, *do not change or reassign anything about the authors* and make sure you check the `Download and import file attachments` box before you click `Submit`.
 - Let the import process run until complete. *Do not close the browser tab / window or navigate away from page while importing.* You should see an `All done. Have fun!` message when the import is complete.
-- Happy testing!
+- Happy testing! See [Usage](#usage) section for more details.
 
 ### Installation via WP-CLI
 
 1. Make sure you have [WP-CLI](http://wp-cli.org/) installed, if it's not already installed.
 - Via the command line, execute the [`wptest-cli-install.sh`](wptest-cli-install.sh) script.
 - Follow the prompts to install the WP Test data.
-- Happy testing!
+- Happy testing! See [Usage](#usage) section for more details.
+
+## Usage
+
+Once the WP Test data is [installed](#installation), using WP Test is as simple as navigating to posts, pages, assigning menus, etc. and looking for layout, overflow, alignment, and other style and structure issues.
+
+The test data is [self documenting](#guided-help), as much as possible, to help you fix your issues.
 
 ## Contributing
 
