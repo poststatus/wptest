@@ -33,7 +33,7 @@ read USELOCAL
 cd $WPPATH
 
 # Check if a custom path is being used.
-if [ $USELOCAL == 'y' ]; then
+if [ "$USELOCAL" == 'y' ]; then
     # Get the path to the xml file.
     printf "Please provide the absolute local path to your xml file: "
     read XMLPATH
