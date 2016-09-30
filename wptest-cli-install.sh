@@ -38,11 +38,11 @@ if [ $USELOCAL == 'y' ]; then
     printf "Please provide the absolute local path to your xml file: "
     read XMLPATH
     # Import the local file.
-    wp import $XMLPATH --authors=create
+    wp import $XMLPATH --authors=create $ALLOWROOT
 else
     # Get the xml file.
     curl -OL https://raw.githubusercontent.com/poststatus/wptest/master/wptest.xml
     # Import the file, then delete it.
-    wp import wptest.xml --authors=create
+    wp import wptest.xml --authors=create $ALLOWROOT
     rm wptest.xml
 fi
