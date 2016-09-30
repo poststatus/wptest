@@ -17,7 +17,7 @@ case "$1" in
         ;;
     *)
         printf "Invalid flag provided. Allowed flags: --allow-root.\n"
-        exit 1
+        exit
         ;;
 esac
 
