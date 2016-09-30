@@ -26,7 +26,7 @@ if [ $[USELOCAL] == 'y' ]; then
     wp import $[XMLPATH] --authors=create
 else
     # Get the xml file.
-    curl -OL https://raw.githubusercontent.com/manovotny/wptest/master/wptest.xml
+    curl -OL https://raw.githubusercontent.com/poststatus/wptest/master/wptest.xml
     # Import the file, then delete it.
     wp import wptest.xml --authors=create
     rm wptest.xml
