@@ -15,15 +15,15 @@ printf "Use a local xml file? [y/N]"
 read USELOCAL
 
 # Move to the WordPress installation location.
-cd $WPPATH
+cd $[WPPATH]
 
 # Check if a custom path is being used.
-if [ "$USELOCAL" == 'y' ]; then
+if [ $[USELOCAL] == 'y' ]; then
     # Get the path to the xml file.
     printf "Please provide the absolute local path to your xml file: "
     read XMLPATH
     # Import the local file.
-    wp import $XMLPATH --authors=create
+    wp import $[XMLPATH] --authors=create
 else
     # Get the xml file.
     curl -OL https://raw.githubusercontent.com/manovotny/wptest/master/wptest.xml
