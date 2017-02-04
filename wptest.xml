@@ -111,7 +111,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/canola2/</link>
 		<pubDate>Mon, 10 Jan 2011 13:17:54 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/01/canola2.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/canola2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna.]]></excerpt:encoded>
@@ -127,7 +127,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/01/canola2.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/canola2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/canola2.jpg]]></wp:meta_value>
@@ -146,7 +146,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20050315_145007_132/</link>
 		<pubDate>Mon, 10 Jan 2011 13:19:10 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050315_145007_132.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050315_145007_132.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -162,7 +162,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050315_145007_132.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050315_145007_132.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050315_145007_132.jpg]]></wp:meta_value>
@@ -181,7 +181,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20050727_091048_222/</link>
 		<pubDate>Mon, 10 Jan 2011 13:20:37 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050727_091048_222.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050727_091048_222.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -197,7 +197,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050727_091048_222.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050727_091048_222.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050727_091048_222.jpg]]></wp:meta_value>
@@ -216,7 +216,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20050813_115856_52/</link>
 		<pubDate>Mon, 10 Jan 2011 13:20:57 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050813_115856_52.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050813_115856_52.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -232,7 +232,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050813_115856_52.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050813_115856_52.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050813_115856_52.jpg]]></wp:meta_value>
@@ -251,7 +251,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20050831_165238_332/</link>
 		<pubDate>Mon, 10 Jan 2011 13:21:14 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050831_165238_332.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050831_165238_332.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -267,7 +267,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050831_165238_332.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050831_165238_332.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050831_165238_332.jpg]]></wp:meta_value>
@@ -286,7 +286,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20050901_105100_212/</link>
 		<pubDate>Mon, 10 Jan 2011 13:21:50 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050901_105100_212.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050901_105100_212.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Seed pods on stem, Woodvale]]></excerpt:encoded>
@@ -302,7 +302,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/01/dsc20050901_105100_212.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/01/dsc20050901_105100_212.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050901_105100_212.jpg]]></wp:meta_value>
@@ -321,7 +321,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/100_5478/</link>
 		<pubDate>Fri, 15 Jul 2011 21:34:50 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/100_5478.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/100_5478.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/100_5540.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Bell on wharf in San Francisco]]></excerpt:encoded>
@@ -337,7 +337,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/100_5478.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/100_5478.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/100_5478.jpg]]></wp:meta_value>
@@ -356,7 +356,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/100_5540/</link>
 		<pubDate>Fri, 15 Jul 2011 21:35:55 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/100_5540.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/100_5540.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/100_5478.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Golden Gate Bridge]]></excerpt:encoded>
@@ -372,7 +372,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/100_5540.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/100_5540.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/100_5540.jpg]]></wp:meta_value>
@@ -391,7 +391,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/cep00032/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:24 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/cep00032.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/cep00032.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/CEP00032.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sunburst over the Clinch River, Southwest Virginia.]]></excerpt:encoded>
@@ -407,7 +407,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/cep00032.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/cep00032.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/cep00032.jpg]]></wp:meta_value>
@@ -426,7 +426,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dcp_2082/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:27 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dcp_2082.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dcp_2082.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/DCP_2082.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boardwalk at Westport, WA]]></excerpt:encoded>
@@ -442,7 +442,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dcp_2082.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dcp_2082.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dcp_2082.jpg]]></wp:meta_value>
@@ -461,7 +461,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc03149/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:33 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dsc03149.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc03149.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc03149.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boats and reflections, Royal Perth Yacht Club]]></excerpt:encoded>
@@ -477,7 +477,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dsc03149.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc03149.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc03149.jpg]]></wp:meta_value>
@@ -496,7 +496,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc04563/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:37 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dsc04563.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc04563.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc04563.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Raindrop ripples on a pond]]></excerpt:encoded>
@@ -512,7 +512,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dsc04563.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc04563.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc04563.jpg]]></wp:meta_value>
@@ -531,7 +531,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc09114/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:41 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dsc09114.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc09114.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc09114.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sydney Harbor Bridge]]></excerpt:encoded>
@@ -547,7 +547,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dsc09114.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc09114.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc09114.jpg]]></wp:meta_value>
@@ -566,7 +566,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20050102_192118_51/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:42 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dsc20050102_192118_51.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc20050102_192118_51.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc20050102_192118_51.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Albany wind-farm against the sunset, Western Australia]]></excerpt:encoded>
@@ -582,7 +582,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dsc20050102_192118_51.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc20050102_192118_51.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc20050102_192118_51.jpg]]></wp:meta_value>
@@ -601,7 +601,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20051220_160808_102/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:45 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dsc20051220_160808_102.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc20051220_160808_102.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc20051220_160808_102.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Antique farm machinery, Mount Barker Museum, Western Australia]]></excerpt:encoded>
@@ -617,7 +617,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dsc20051220_160808_102.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc20051220_160808_102.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc20051220_160808_102.jpg]]></wp:meta_value>
@@ -636,7 +636,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc02085/</link>
 		<pubDate>Fri, 15 Jul 2011 21:46:27 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dsc02085.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc02085.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25895]]></content:encoded>
 		<excerpt:encoded><![CDATA[Orange Iris]]></excerpt:encoded>
@@ -652,7 +652,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dsc02085.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc02085.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc02085.jpg]]></wp:meta_value>
@@ -671,7 +671,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20051220_173257_119/</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:17 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dsc20051220_173257_119.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc20051220_173257_119.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc20051220_173257_119.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Rusty rails with fishplate, Kojonup]]></excerpt:encoded>
@@ -687,7 +687,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dsc20051220_173257_119.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dsc20051220_173257_119.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc20051220_173257_119.jpg]]></wp:meta_value>
@@ -706,7 +706,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dscn3316/</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:20 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/dscn3316.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dscn3316.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dscn3316.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sea and rocks, Plimmerton, New Zealand]]></excerpt:encoded>
@@ -722,7 +722,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/dscn3316.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/dscn3316.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dscn3316.jpg]]></wp:meta_value>
@@ -741,7 +741,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/michelle_049/</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:23 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/michelle_049.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/michelle_049.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/michelle_049.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Beach at Big Sur, CA]]></excerpt:encoded>
@@ -757,7 +757,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/michelle_049.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/michelle_049.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/michelle_049.jpg]]></wp:meta_value>
@@ -776,7 +776,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dcf-1-0/</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:26 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/windmill.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/windmill.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/Windmill.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Windmill shrouded in fog at a farm outside of Walker, Iowa]]></excerpt:encoded>
@@ -792,7 +792,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/windmill.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/windmill.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/windmill.jpg]]></wp:meta_value>
@@ -811,7 +811,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/alas-i-have-found-my-shangri-la/</link>
 		<pubDate>Fri, 15 Jul 2011 21:49:48 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/img_0513-1.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/img_0513-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0513-1.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sunrise over the coast in Huatulco, Oaxaca, Mexico]]></excerpt:encoded>
@@ -827,7 +827,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/img_0513-1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/img_0513-1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/img_0513-1.jpg]]></wp:meta_value>
@@ -846,7 +846,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/img_0747/</link>
 		<pubDate>Fri, 15 Jul 2011 21:50:37 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/img_0747.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/img_0747.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25770]]></content:encoded>
 		<excerpt:encoded><![CDATA[Jericoacoara Ceara Brasil]]></excerpt:encoded>
@@ -862,7 +862,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/img_0747.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/img_0747.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/img_0747.jpg]]></wp:meta_value>
@@ -881,7 +881,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/img_0767/</link>
 		<pubDate>Fri, 15 Jul 2011 21:51:19 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/img_0767.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/img_0767.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0767.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Coastline in Huatulco, Oaxaca, Mexico]]></excerpt:encoded>
@@ -897,7 +897,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/img_0767.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/img_0767.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/img_0767.jpg]]></wp:meta_value>
@@ -916,7 +916,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/img_8399/</link>
 		<pubDate>Fri, 15 Jul 2011 21:51:57 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2011/07/img_8399.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/img_8399.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25774]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boat BW PB Barco Texture Beautiful Fishing]]></excerpt:encoded>
@@ -932,7 +932,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2011/07/img_8399.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2011/07/img_8399.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/img_8399.jpg]]></wp:meta_value>
@@ -951,7 +951,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20040724_152504_532-2/</link>
 		<pubDate>Mon, 04 Jun 2012 18:36:56 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2012/06/dsc20040724_152504_532.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -967,7 +967,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2012/06/dsc20040724_152504_532.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2012/06/dsc20040724_152504_532.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/06/dsc20040724_152504_532.jpg]]></wp:meta_value>
@@ -982,7 +982,7 @@
 		<link>http://wptest.io/demo/post-format-gallery/dsc20050604_133440_3421/</link>
 		<pubDate>Mon, 04 Jun 2012 18:58:15 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2012/06/dsc20050604_133440_34211.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2012/06/dsc20050604_133440_34211.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -998,7 +998,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2012/06/dsc20050604_133440_34211.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2012/06/dsc20050604_133440_34211.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/06/dsc20050604_133440_34211.jpg]]></wp:meta_value>
@@ -1013,7 +1013,7 @@
 		<link>http://wptest.io/demo/?attachment_id=827</link>
 		<pubDate>Thu, 05 Jul 2012 18:07:34 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2012/07/manhattansummer.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2012/07/manhattansummer.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1029,7 +1029,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2012/07/manhattansummer.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2012/07/manhattansummer.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/07/manhattansummer.jpg]]></wp:meta_value>
@@ -1044,7 +1044,7 @@
 		<link>http://wptest.io/demo/?attachment_id=842</link>
 		<pubDate>Thu, 14 Mar 2013 14:58:24 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/soworthloving-wallpaper.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/soworthloving-wallpaper.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1060,7 +1060,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/soworthloving-wallpaper.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/soworthloving-wallpaper.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/soworthloving-wallpaper.jpg]]></wp:meta_value>
@@ -1083,7 +1083,7 @@
 		<link>http://wptest.io/demo/image-alignment/image-alignment-150x150/</link>
 		<pubDate>Fri, 15 Mar 2013 00:44:49 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-150x150.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-150x150.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1099,7 +1099,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-150x150.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-150x150.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-alignment-150x150.jpg]]></wp:meta_value>
@@ -1118,7 +1118,7 @@
 		<link>http://wptest.io/demo/image-alignment/image-alignment-300x200/</link>
 		<pubDate>Fri, 15 Mar 2013 00:44:49 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-300x200.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-300x200.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1134,7 +1134,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-300x200.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-300x200.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-alignment-300x200.jpg]]></wp:meta_value>
@@ -1153,7 +1153,7 @@
 		<link>http://wptest.io/demo/image-alignment/image-alignment-580x300/</link>
 		<pubDate>Fri, 15 Mar 2013 00:44:50 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-580x300.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1169,7 +1169,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-580x300.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-alignment-580x300.jpg]]></wp:meta_value>
@@ -1188,7 +1188,7 @@
 		<link>http://wptest.io/demo/image-alignment/image-alignment-1200x4002/</link>
 		<pubDate>Fri, 15 Mar 2013 00:44:50 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-1200x4002.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1204,7 +1204,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-1200x4002.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-alignment-1200x4002.jpg]]></wp:meta_value>
@@ -1223,7 +1223,7 @@
 		<link>http://wptest.io/demo/post-format-image-caption/triforce-wallpaper/</link>
 		<pubDate>Fri, 15 Mar 2013 03:04:43 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2012/12/triforce-wallpaper.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2012/12/triforce-wallpaper.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[It's dangerous to go alone! Take this.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1239,7 +1239,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2012/12/triforce-wallpaper.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2012/12/triforce-wallpaper.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/12/triforce-wallpaper.jpg]]></wp:meta_value>
@@ -1258,7 +1258,7 @@
 		<link>http://wptest.io/demo/post-format-image/unicorn-wallpaper/</link>
 		<pubDate>Fri, 15 Mar 2013 03:10:39 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2012/12/unicorn-wallpaper.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2012/12/unicorn-wallpaper.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1274,7 +1274,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2012/12/unicorn-wallpaper.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2012/12/unicorn-wallpaper.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/12/unicorn-wallpaper.jpg]]></wp:meta_value>
@@ -1293,7 +1293,7 @@
 		<link>http://wptest.io/demo/?attachment_id=976</link>
 		<pubDate>Fri, 15 Mar 2013 03:35:29 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/Eddy-Need-Remix.mp3</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/Eddy-Need-Remix.mp3</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1309,7 +1309,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/Eddy-Need-Remix.mp3</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/Eddy-Need-Remix.mp3</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/Eddy-Need-Remix.mp3]]></wp:meta_value>
@@ -1320,7 +1320,7 @@
 		<link>http://wptest.io/demo/featured-image-horizontal/featured-image-horizontal-2/</link>
 		<pubDate>Fri, 15 Mar 2013 20:40:38 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/featured-image-horizontal.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/featured-image-horizontal.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1336,7 +1336,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/featured-image-horizontal.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/featured-image-horizontal.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/featured-image-horizontal.jpg]]></wp:meta_value>
@@ -1355,7 +1355,7 @@
 		<link>http://wptest.io/demo/featured-image-vertical/featured-image-vertical-2/</link>
 		<pubDate>Fri, 15 Mar 2013 20:41:09 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/featured-image-vertical.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/featured-image-vertical.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1371,7 +1371,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/featured-image-vertical.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/featured-image-vertical.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/featured-image-vertical.jpg]]></wp:meta_value>
@@ -1390,7 +1390,7 @@
 		<link>http://wptest.io/demo/tiled-gallery/fight-club/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:04 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/fight-club.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/fight-club.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1406,7 +1406,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/fight-club.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/fight-club.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/fight-club.jpg]]></wp:meta_value>
@@ -1425,7 +1425,7 @@
 		<link>http://wptest.io/demo/tiled-gallery/ironman-2/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:06 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/ironman-2.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/ironman-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1441,7 +1441,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/ironman-2.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/ironman-2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/ironman-2.jpg]]></wp:meta_value>
@@ -1460,7 +1460,7 @@
 		<link>http://wptest.io/demo/tiled-gallery/man-of-steel/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:07 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/man-of-steel.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/man-of-steel.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1476,7 +1476,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/man-of-steel.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/man-of-steel.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/man-of-steel.jpg]]></wp:meta_value>
@@ -1495,7 +1495,7 @@
 		<link>http://wptest.io/demo/tiled-gallery/spider-man/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:08 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/spider-man.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/spider-man.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1511,7 +1511,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/spider-man.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/spider-man.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/spider-man.jpg]]></wp:meta_value>
@@ -1530,7 +1530,7 @@
 		<link>http://wptest.io/demo/tiled-gallery/the-dark-knight-rises/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:09 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/the-dark-knight-rises.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/the-dark-knight-rises.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1546,7 +1546,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/the-dark-knight-rises.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/the-dark-knight-rises.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/the-dark-knight-rises.jpg]]></wp:meta_value>
@@ -1565,7 +1565,7 @@
 		<link>http://wptest.io/demo/home/static-pages/</link>
 		<pubDate>Fri, 15 Mar 2013 23:02:10 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/static-pages.png</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/static-pages.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1581,7 +1581,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/static-pages.png</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/static-pages.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/static-pages.png]]></wp:meta_value>
@@ -2480,7 +2480,7 @@
 		<link>http://wptest.io/demo/tiled-gallery/captain-america/</link>
 		<pubDate>Tue, 09 Sep 2014 02:14:12 +0000</pubDate>
 		<dc:creator>manovotny</dc:creator>
-		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/2013/03/captain-america.jpg</guid>
+		<guid isPermaLink="false">http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/captain-america.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2496,7 +2496,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/2013/03/captain-america.jpg</wp:attachment_url>
+		<wp:attachment_url>http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/captain-america.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/captain-america.jpg]]></wp:meta_value>
@@ -6958,7 +6958,7 @@ To test this page:
 	<li>Navigate to <strong><em>Settings &gt; Reading</em></strong> in the WordPress admin.</li>
 	<li>Then use the settings in the screenshot below.</li>
 </ul>
-<img class="alignnone size-full wp-image-1071" alt="Static Pages" src="http://wptest.io/demo/wp-content/uploads/2013/03/static-pages.png" width="1390" height="1022" />
+<img class="alignnone size-full wp-image-1071" alt="Static Pages" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/static-pages.png" width="1390" height="1022" />
 
 A few things to check once this is done.
 <ul>
@@ -7003,7 +7003,7 @@ To test this page:
 	<li>Navigate to <strong><em>Settings &gt; Reading</em></strong> in the WordPress admin.</li>
 	<li>Then use the settings in the screenshot below.</li>
 </ul>
-<img class="alignnone size-full wp-image-1071" alt="Static Pages" src="http://wptest.io/demo/wp-content/uploads/2013/03/static-pages.png" width="1390" height="1022" />
+<img class="alignnone size-full wp-image-1071" alt="Static Pages" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/static-pages.png" width="1390" height="1022" />
 
 A few things to check once this is done.
 <ul>
@@ -7121,20 +7121,20 @@ If your theme support comments on pages, then they should show up below.]]></con
 		<content:encoded><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
 On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.
-<p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
+<p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
 The image above happens to be <em><strong>centered</strong></em>.
 
-<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
+<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thang. Mission accomplished!
 
 And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.
 
-<img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
+<img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
-<img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-300x200.jpg" width="300" height="200" />
+<img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-300x200.jpg" width="300" height="200" />
 
 And now we're going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there... Hey guy! Way to rock that right side. I don't care what the left aligned image says, you look great. Don't let anyone else tell you differently.
 
@@ -7142,11 +7142,11 @@ In just a bit here, you should see the text start to wrap below the right aligne
 
 And just when you thought we were done, we're going to do them all over again with captions!
 
-[caption id="attachment_906" align="aligncenter" width="580"]<img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /> Look at 580x300 getting some <a title="Image Settings" href="http://en.support.wordpress.com/images/image-settings/">caption</a> love.[/caption]
+[caption id="attachment_906" align="aligncenter" width="580"]<img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-580x300.jpg" width="580" height="300" /> Look at 580x300 getting some <a title="Image Settings" href="http://en.support.wordpress.com/images/image-settings/">caption</a> love.[/caption]
 
 The image above happens to be <em><strong>centered</strong></em>. The caption also has a link in it, just to see if it does anything funky.
 
-[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> Itty-bitty caption.[/caption]
+[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> Itty-bitty caption.[/caption]
 
 <strong></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
 
@@ -7154,11 +7154,11 @@ As you can see the should be some space above, below, and to the right of the im
 
 And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.
 
-[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> Massive image comment for your eyeballs.[/caption]
+[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> Massive image comment for your eyeballs.[/caption]
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
-[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> Feels good to be right all the time.[/caption]
+[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> Feels good to be right all the time.[/caption]
 
 And now we're going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there... Hey guy! Way to rock that right side. I don't care what the left aligned image says, you look great. Don't let anyone else tell you differently.
 
@@ -8452,7 +8452,7 @@ Also an author comment.]]></wp:comment_content>
 			<wp:comment_date_gmt>2013-03-14 14:56:43</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Image comment.
 
-<img src="http://wptest.io/demo/wp-content/uploads/2013/03/soworthloving-wallpaper.jpg" alt="I Am Worth Loving Wallpaper" />]]></wp:comment_content>
+<img src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/soworthloving-wallpaper.jpg" alt="I Am Worth Loving Wallpaper" />]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -8964,7 +8964,7 @@ Tom: Fine. But if I show up, I am not wearing pants.]]></content:encoded>
 		<dc:creator>manovotny</dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=568</guid>
 		<description></description>
-		<content:encoded><![CDATA[<dl class="wp-caption aligncenter" id="attachment_612" style="width: 650px;"><dt class="wp-caption-dt"></dt></dl><img class="alignnone size-full wp-image-967" alt="Unicorn Wallpaper" src="http://wptest.io/demo/wp-content/uploads/2012/12/unicorn-wallpaper.jpg" width="1600" height="1200" />
+		<content:encoded><![CDATA[<dl class="wp-caption aligncenter" id="attachment_612" style="width: 650px;"><dt class="wp-caption-dt"></dt></dl><img class="alignnone size-full wp-image-967" alt="Unicorn Wallpaper" src="http://wptest.io/demo/wp-content/uploads/sites/2/2012/12/unicorn-wallpaper.jpg" width="1600" height="1200" />
 
 I really love this wallpaper. It makes me think fondly of <a title="Chris Ames" href="http://chrisam.es/" target="_blank">Chris Ames</a>.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9114,11 +9114,11 @@ Learn more about <a title="WordPress Embeds" href="http://codex.wordpress.org/Em
 		<description></description>
 		<content:encoded><![CDATA[Link:
 
-<a href="http://wptest.io/demo/wp-content/uploads/2013/03/Eddy-Need-Remix.mp3">Eddy - Need (Remix)</a>
+<a href="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/Eddy-Need-Remix.mp3">Eddy - Need (Remix)</a>
 
 Shortcode:
 
-[audio http://wptest.io/demo/wp-content/uploads/2013/03/Eddy-Need-Remix.mp3]]]></content:encoded>
+[audio http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/Eddy-Need-Remix.mp3]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>587</wp:post_id>
 		<wp:post_date>2012-12-01 01:00:44</wp:post_date>
@@ -9145,7 +9145,7 @@ Shortcode:
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>enclosure</wp:meta_key>
-			<wp:meta_value><![CDATA[http://wptest.io/demo/wp-content/uploads/2013/03/Eddy-Need-Remix.mp3
+			<wp:meta_value><![CDATA[http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/Eddy-Need-Remix.mp3
 11039151
 audio/mpeg
 ]]></wp:meta_value>
@@ -9158,7 +9158,7 @@ audio/mpeg
 		<dc:creator>tommcfarlin</dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=674</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_963" align="alignnone" width="1131"]<img class=" wp-image-963" title="Triforce Wallpaper" alt="Triforce Wallpaper" src="http://wptest.io/demo/wp-content/uploads/2012/12/triforce-wallpaper.jpg" width="1131" height="707" /> It's dangerous to go alone! Take this.[/caption]]]></content:encoded>
+		<content:encoded><![CDATA[[caption id="attachment_963" align="alignnone" width="1131"]<img class=" wp-image-963" title="Triforce Wallpaper" alt="Triforce Wallpaper" src="http://wptest.io/demo/wp-content/uploads/sites/2/2012/12/triforce-wallpaper.jpg" width="1131" height="707" /> It's dangerous to go alone! Take this.[/caption]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>674</wp:post_id>
 		<wp:post_date>2012-12-06 06:00:19</wp:post_date>
@@ -9681,20 +9681,20 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
 		<content:encoded><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
 On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.
-<p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
+<p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
 The image above happens to be <em><strong>centered</strong></em>.
 
-<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
+<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thang. Mission accomplished!
 
 And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.
 
-<img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
+<img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
-<img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-300x200.jpg" width="300" height="200" />
+<img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-300x200.jpg" width="300" height="200" />
 
 And now we're going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there... Hey guy! Way to rock that right side. I don't care what the left aligned image says, you look great. Don't let anyone else tell you differently.
 
@@ -9702,11 +9702,11 @@ In just a bit here, you should see the text start to wrap below the right aligne
 
 And just when you thought we were done, we're going to do them all over again with captions!
 
-[caption id="attachment_906" align="aligncenter" width="580"]<img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /> Look at 580x300 getting some <a title="Image Settings" href="http://en.support.wordpress.com/images/image-settings/">caption</a> love.[/caption]
+[caption id="attachment_906" align="aligncenter" width="580"]<img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-580x300.jpg" width="580" height="300" /> Look at 580x300 getting some <a title="Image Settings" href="http://en.support.wordpress.com/images/image-settings/">caption</a> love.[/caption]
 
 The image above happens to be <em><strong>centered</strong></em>. The caption also has a link in it, just to see if it does anything funky.
 
-[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> Itty-bitty caption.[/caption]
+[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> Itty-bitty caption.[/caption]
 
 <strong></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150x150 image, which is <em><strong>left aligned</strong></em>. <strong></strong>
 
@@ -9714,11 +9714,11 @@ As you can see the should be some space above, below, and to the right of the im
 
 And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.
 
-[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> Massive image comment for your eyeballs.[/caption]
+[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> Massive image comment for your eyeballs.[/caption]
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
-[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.io/demo/wp-content/uploads/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> Feels good to be right all the time.[/caption]
+[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.io/demo/wp-content/uploads/sites/2/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> Feels good to be right all the time.[/caption]
 
 And now we're going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there... Hey guy! Way to rock that right side. I don't care what the left aligned image says, you look great. Don't let anyone else tell you differently.
 
