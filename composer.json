@@ -1,5 +1,5 @@
 {
-    "name": "manovotny/wptest",
+    "name": "poststatus/wptest",
     "version": "1.5.0",
     "description": "WP Test - The Best Tests For WordPress.",
     "type": "library",
@@ -18,6 +18,12 @@
             "name": "Michael Novotny",
             "email": "manovotny@gmail.com",
             "homepage": "http://manovotny.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Brian Krogsgard",
+            "email": "brian@poststatus.com",
+            "homepage": "https://poststatus.com/",
             "role": "Developer"
         }
     ]
